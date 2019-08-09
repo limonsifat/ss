@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/limonsifat/moviestore.git"
+    "url": "git+https://github.com/limonsifat/reactp2.git"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -20,9 +20,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/limonsifat/moviestore/issues"
+    "url": "https://github.com/limonsifat/reactp2/issues"
   },
-  "homepage": "https://github.com/limonsifat/moviestore#readme",
+  "homepage": "https://github.com/limonsifat/reactp2#readme",
   "dependencies": {
     "axios": "^0.18.0",
     "bcrypt": "^3.0.6",
