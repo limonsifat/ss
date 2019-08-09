@@ -1,0 +1,45 @@
+.pag-wrapper {
+  display: flex;
+  min-height: 100vh;
+  display: -webkit-flex;
+}
+.main-content{
+  width: 100%;
+  margin-left: 220px;
+  padding: 1rem;
+}
+.sidebar {
+  width: 220px;
+  padding: 1rem 0;
+  position: fixed;
+  height: 100%;
+  background: #404040;
+  color: #fff;
+}
+.sideHeader h5 {
+  padding: 0.5rem 1rem 0.5rem;
+  margin-bottom: 2rem;
+  font-size: 1.5rem;
+}
+.sidebar hr {
+  margin: 1rem 0;
+  height: 1px;
+  background: #5d5d5d;
+}
+.sideItem ul{
+  list-style: none;
+  padding: 0;
+  display: block;
+}
+.sideItem li a {
+  padding: 0.5rem 0.5rem 0.5rem 0.75rem;
+  color: #fff;
+  display: block;
+  font-size: 1rem;
+  border-bottom: 1px solid #505050;
+}
+.sideItem li a:hover{
+  text-decoration: none;
+  background: #505050;
+  cursor: pointer;  
+}
